@@ -1,0 +1,962 @@
+﻿[
+  [
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    }
+  ],
+  [
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": null,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    }
+  ],
+  [
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    }
+  ],
+  [
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    }
+  ],
+  [
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 2,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    }
+  ],
+  [
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    }
+  ],
+  [
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    }
+  ],
+  [
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    }
+  ],
+  [
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 0,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    },
+    {
+      "Type": 1,
+      "Health": 3,
+      "Speed": "1.0",
+      "SpawnDelay": "0.6"
+    }
+  ]
+]

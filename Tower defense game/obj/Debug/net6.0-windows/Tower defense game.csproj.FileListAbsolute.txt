@@ -1,0 +1,59 @@
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\Enemy.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Tower defense game.exe
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Tower defense game.deps.json
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Tower defense game.runtimeconfig.json
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Tower defense game.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Tower defense game.pdb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\MonoGame.Aseprite.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\obj\Debug\net6.0-windows\Tower defense game.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\obj\Debug\net6.0-windows\Tower defense game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\obj\Debug\net6.0-windows\Tower defense game.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\obj\Debug\net6.0-windows\Tower defense game.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\obj\Debug\net6.0-windows\Tower defense game.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\obj\Debug\net6.0-windows\Tower defense game.csproj.CopyComplete
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\obj\Debug\net6.0-windows\Tower defense game.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\obj\Debug\net6.0-windows\refint\Tower defense game.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\obj\Debug\net6.0-windows\Tower defense game.pdb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\obj\Debug\net6.0-windows\Tower defense game.genruntimeconfig.cache
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\obj\Debug\net6.0-windows\ref\Tower defense game.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Spline.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\Tower.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\Path.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\MonoGame.UI.Forms.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Waves.json
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\DefaultFont.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\ButtonLeft.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\ButtonMiddle.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\ButtonRight.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\BtnLG.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\BtnMG.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\BtnRG.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\BtnLR.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\BtnMR.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\BtnRR.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\TitleFont.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\Axe.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\Testv2.xnb
+C:\Users\alexa\source\repos\Tower defense game\Tower defense game\bin\Debug\net6.0-windows\Content\Testv2.wma

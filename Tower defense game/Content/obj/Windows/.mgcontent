@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/Axe.aseprite</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/BtnLG.png</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/BtnLR.png</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/BtnMG.png</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/BtnMR.png</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/BtnRG.png</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/BtnRR.png</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/ButtonLeft.png</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/ButtonMiddle.png</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/ButtonRight.png</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/DefaultFont.spritefont</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/Enemy.aseprite</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/Path.aseprite</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/Testv2.wav</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/TitleFont.spritefont</File>
+    <File>C:/Users/alexa/source/repos/Tower defense game/Tower defense game/Content/Tower.aseprite</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
